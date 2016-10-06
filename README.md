@@ -2,7 +2,7 @@
 
 iOS8 TouchID with just few lines of code
 
-
+![Default](https://raw.githubusercontent.com/kapilahuja/touchid/master/TouchID/TouchID/IMG_1213.PNG)
 
 ## Usage
 
