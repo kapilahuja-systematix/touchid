@@ -2,7 +2,7 @@
 
 iOS8 TouchID with just few lines of code
 
-![Default](https://raw.github.com/bvogelzang/SevenSwitch/master/ExampleImages/example.png)
+
 
 ## Usage
 
